@@ -15,3 +15,7 @@ Owing to the high capacitance of pseudocapacitive electrodes, transition metal o
 - Using the MnCo2O4@NiMoO4 core-shell NWAs as a cathode and commercially available active carbon (AC) as an anode, we assembled and tested an asymmetric supercapacitor (ASC). The device displayed high energy density of 42 W h kg $^{−1}$ at a power density of 852.3 W kg $^{−1}$ and a good cyclability with 93% of the initial capacitance retained at the end of 8000 successive charge/discharge cycles.
 
 For this consideration and building upon the study within this thesis, the MnCo2O4@NiMoO4 core-shell NWAs electrode material holds a great promise for manifesting reliable energy storage devices. 
+
+Publication:
+
+[1] J. A.-A. Mehrez, K. A. Owusu, Q. Chen, L. Li, K. Hamwi, W. Luo, and L. Mai, Hierarchical mnco2o4@nimoo4 as free-standing core-shell nanowire arrays with synergistic effect for enhanced supercapacitor performance, Inorg. Chem. Front. 6, 857 (2019). (https://doi.org/10.1039/C8QI01420E)
